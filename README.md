@@ -11,6 +11,4 @@ Works on html:
 
 ![Screenshot](https://github.com/neomitt/diary/blob/main/screen2.png)
 
-### [Download here](https://drive.google.com/file/d/18qjCqwISb-SQFW3uwf2X9lRA9tTflJLU/view?usp=sharing)
-
 ### [Github teachers: gomarmadi](https://github.com/gomarmadi)
